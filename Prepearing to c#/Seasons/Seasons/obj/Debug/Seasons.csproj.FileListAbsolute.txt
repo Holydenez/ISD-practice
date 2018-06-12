@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\Seasons\Seasons\bin\Debug\Seasons.exe.config
+E:\Проекты\c#\Prepearing to c#\Seasons\Seasons\bin\Debug\Seasons.exe
+E:\Проекты\c#\Prepearing to c#\Seasons\Seasons\bin\Debug\Seasons.pdb
+E:\Проекты\c#\Prepearing to c#\Seasons\Seasons\obj\Debug\Seasons.exe
+E:\Проекты\c#\Prepearing to c#\Seasons\Seasons\obj\Debug\Seasons.pdb

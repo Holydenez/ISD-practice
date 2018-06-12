@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\Taxi\Taxi\bin\Debug\Taxi.exe.config
+E:\Проекты\c#\Prepearing to c#\Taxi\Taxi\bin\Debug\Taxi.exe
+E:\Проекты\c#\Prepearing to c#\Taxi\Taxi\bin\Debug\Taxi.pdb
+E:\Проекты\c#\Prepearing to c#\Taxi\Taxi\obj\Debug\Taxi.exe
+E:\Проекты\c#\Prepearing to c#\Taxi\Taxi\obj\Debug\Taxi.pdb

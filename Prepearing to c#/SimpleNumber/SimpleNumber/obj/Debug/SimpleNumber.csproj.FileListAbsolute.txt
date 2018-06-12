@@ -1,0 +1,6 @@
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\bin\Debug\SimpleNumber.exe.config
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\bin\Debug\SimpleNumber.exe
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\bin\Debug\SimpleNumber.pdb
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\obj\Debug\SimpleNumber.csprojResolveAssemblyReference.cache
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\obj\Debug\SimpleNumber.exe
+E:\Проекты\c#\Prepearing to c#\SimpleNumber\SimpleNumber\obj\Debug\SimpleNumber.pdb

@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\CatDog\CatDog\bin\Debug\CatDog.exe.config
+E:\Проекты\c#\Prepearing to c#\CatDog\CatDog\bin\Debug\CatDog.exe
+E:\Проекты\c#\Prepearing to c#\CatDog\CatDog\bin\Debug\CatDog.pdb
+E:\Проекты\c#\Prepearing to c#\CatDog\CatDog\obj\Debug\CatDog.exe
+E:\Проекты\c#\Prepearing to c#\CatDog\CatDog\obj\Debug\CatDog.pdb

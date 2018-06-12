@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\Dice\Dice\bin\Debug\Dice.exe.config
+E:\Проекты\c#\Prepearing to c#\Dice\Dice\bin\Debug\Dice.exe
+E:\Проекты\c#\Prepearing to c#\Dice\Dice\bin\Debug\Dice.pdb
+E:\Проекты\c#\Prepearing to c#\Dice\Dice\obj\Debug\Dice.exe
+E:\Проекты\c#\Prepearing to c#\Dice\Dice\obj\Debug\Dice.pdb

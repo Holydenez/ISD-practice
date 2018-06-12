@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\GoodorBad\GoodorBad\bin\Debug\GoodorBad.exe.config
+E:\Проекты\c#\Prepearing to c#\GoodorBad\GoodorBad\bin\Debug\GoodorBad.exe
+E:\Проекты\c#\Prepearing to c#\GoodorBad\GoodorBad\bin\Debug\GoodorBad.pdb
+E:\Проекты\c#\Prepearing to c#\GoodorBad\GoodorBad\obj\Debug\GoodorBad.exe
+E:\Проекты\c#\Prepearing to c#\GoodorBad\GoodorBad\obj\Debug\GoodorBad.pdb

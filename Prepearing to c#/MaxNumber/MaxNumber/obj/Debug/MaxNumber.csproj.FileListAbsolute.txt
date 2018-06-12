@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe.config
+E:\Проекты\c#\Prepearing to c#\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe
+E:\Проекты\c#\Prepearing to c#\MaxNumber\MaxNumber\bin\Debug\MaxNumber.pdb
+E:\Проекты\c#\Prepearing to c#\MaxNumber\MaxNumber\obj\Debug\MaxNumber.exe
+E:\Проекты\c#\Prepearing to c#\MaxNumber\MaxNumber\obj\Debug\MaxNumber.pdb

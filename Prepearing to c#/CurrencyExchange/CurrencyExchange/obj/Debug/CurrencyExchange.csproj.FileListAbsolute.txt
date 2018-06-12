@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+E:\Проекты\c#\Prepearing to c#\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+E:\Проекты\c#\Prepearing to c#\CurrencyExchange\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+E:\Проекты\c#\Prepearing to c#\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+E:\Проекты\c#\Prepearing to c#\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb

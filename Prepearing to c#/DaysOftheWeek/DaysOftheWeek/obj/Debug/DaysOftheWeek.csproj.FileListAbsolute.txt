@@ -1,0 +1,5 @@
+E:\Проекты\c#\Prepearing to c#\DaysOftheWeek\DaysOftheWeek\bin\Debug\DaysOftheWeek.exe.config
+E:\Проекты\c#\Prepearing to c#\DaysOftheWeek\DaysOftheWeek\bin\Debug\DaysOftheWeek.exe
+E:\Проекты\c#\Prepearing to c#\DaysOftheWeek\DaysOftheWeek\bin\Debug\DaysOftheWeek.pdb
+E:\Проекты\c#\Prepearing to c#\DaysOftheWeek\DaysOftheWeek\obj\Debug\DaysOftheWeek.exe
+E:\Проекты\c#\Prepearing to c#\DaysOftheWeek\DaysOftheWeek\obj\Debug\DaysOftheWeek.pdb

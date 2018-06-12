@@ -1,0 +1,6 @@
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\bin\Debug\FullName.exe.config
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\bin\Debug\FullName.exe
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\bin\Debug\FullName.pdb
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\obj\Debug\FullName.csprojResolveAssemblyReference.cache
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\obj\Debug\FullName.exe
+E:\Проекты\c#\Prepearing to c#\FullName\FullName\obj\Debug\FullName.pdb
